@@ -1,1 +1,20 @@
-{}
+{
+  "accountAssociation": {
+    "header": "PASTE_HEADER_HERE",
+    "payload": "PASTE_PAYLOAD_HERE",
+    "signature": "PASTE_SIGNATURE_HERE"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Based Pasta Ristorante",
+    "homeUrl": "https://mikeminer.github.io/basedrestaurant/",
+    "iconUrl": "https://mikeminer.github.io/basedrestaurant/icon-1024.png",
+    "splashImageUrl": "https://mikeminer.github.io/basedrestaurant/splash-200.png",
+    "splashBackgroundColor": "#041633",
+    "ogTitle": "Based Pasta — Miniapp",
+    "ogDescription": "Ordina pasta NFT gratis su Base.",
+    "ogImageUrl": "https://mikeminer.github.io/basedrestaurant/og-1200x630.png",
+    "primaryCategory": "food",
+    "tags": ["base", "pasta", "nft"]
+  }
+}
