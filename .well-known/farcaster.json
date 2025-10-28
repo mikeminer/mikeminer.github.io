@@ -15,6 +15,8 @@
     "ogDescription": "Ordina pasta NFT gratis su Base.",
     "ogImageUrl": "https://mikeminer.github.io/basedrestaurant/og-1200x630.png",
     "primaryCategory": "entertainment",
+    "requiredChains": ["eip155:8453"],
+    "requiredCapabilities": ["wallet.getEthereumProvider"],
     "tags": ["base", "pasta", "nft"]
   }
 }
