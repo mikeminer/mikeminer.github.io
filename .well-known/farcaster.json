@@ -18,5 +18,11 @@
     "requiredChains": ["eip155:8453"],
     "requiredCapabilities": ["wallet.getEthereumProvider"],
     "tags": ["base", "pasta", "nft"]
+  },
+
+
+  "baseBuilder": {
+    "ownerAddress": "0x4D993535908B2253a930BAe68Cdc9471d411081C"
   }
+
 }
