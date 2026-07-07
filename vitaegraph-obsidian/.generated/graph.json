@@ -1,0 +1,746 @@
+{
+  "version": "2.0.0",
+  "source": "vitaegraph",
+  "nodes": [
+    {
+      "id": "award:polish-international-actor-contest-first-place",
+      "type": "Award",
+      "label": "Polish International Actor Contest - first place",
+      "path": "awards/polish-international-actor-contest-first-place.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "certification:banche-e-altri-intermediari-finanziari",
+      "type": "Certification",
+      "label": "Banche e altri intermediari finanziari",
+      "path": "certifications/banche-e-altri-intermediari-finanziari.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "certification:blockchain-basics",
+      "type": "Certification",
+      "label": "Blockchain Basics",
+      "path": "certifications/blockchain-basics.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "certification:blockchain-specialization",
+      "type": "Certification",
+      "label": "Blockchain Specialization",
+      "path": "certifications/blockchain-specialization.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "certification:decentralized-applications-dapps",
+      "type": "Certification",
+      "label": "Decentralized Applications (Dapps)",
+      "path": "certifications/decentralized-applications-dapps.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "certification:hadoop-foundations-level-1",
+      "type": "Certification",
+      "label": "Hadoop Foundations - Level 1",
+      "path": "certifications/hadoop-foundations-level-1.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "certification:nexi-payments-developer",
+      "type": "Certification",
+      "label": "Nexi Payments Developer",
+      "path": "certifications/nexi-payments-developer.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "certification:online-seo",
+      "type": "Certification",
+      "label": "Online SEO",
+      "path": "certifications/online-seo.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "certification:smart-contracts",
+      "type": "Certification",
+      "label": "Smart Contracts",
+      "path": "certifications/smart-contracts.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "education:cognitive-class-data-science-ai",
+      "type": "Education",
+      "label": "Cognitive Class - Data Science, Big Data and AI",
+      "path": "education/cognitive-class-data-science-ai/education.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "education:digital-marketing-fundamentals",
+      "type": "Education",
+      "label": "Digital Marketing Fundamentals",
+      "path": "education/digital-marketing-fundamentals/education.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "education:executive-master-hotel-management-tourism-4-0",
+      "type": "Education",
+      "label": "Executive Master in Hotel Management and Tourism 4.0",
+      "path": "education/executive-master-hotel-management-tourism-4-0/education.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "education:financial-trading-and-algorithms",
+      "type": "Education",
+      "label": "Financial Trading and Algorithms",
+      "path": "education/financial-trading-and-algorithms/education.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "education:master-entrepreneurship-startup-advisor",
+      "type": "Education",
+      "label": "Master in Entrepreneurship / Startup Advisor",
+      "path": "education/master-entrepreneurship-startup-advisor/education.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "education:mechanical-engineering",
+      "type": "Education",
+      "label": "Mechanical Engineering",
+      "path": "education/mechanical-engineering/education.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "experience:artificial-intelligence-researcher",
+      "type": "Experience",
+      "label": "Artificial Intelligence Researcher",
+      "path": "experience/artificial-intelligence-researcher/experience.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "experience:autonomous-risk-systems-designer",
+      "type": "Experience",
+      "label": "Full Stack Software and Risk Systems Designer / Quant Risk / Trading Systems Engineer / QA Architect",
+      "path": "experience/autonomous-risk-systems-designer/experience.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "experience:blockchain-testnet-validator",
+      "type": "Experience",
+      "label": "Blockchain Testnet Validator and Node Experimentation",
+      "path": "experience/blockchain-testnet-validator/experience.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "experience:devroulotte-ceo",
+      "type": "Experience",
+      "label": "CEO - DevRoulotte",
+      "path": "experience/devroulotte-ceo/experience.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "experience:isipm-project-manager",
+      "type": "Experience",
+      "label": "Project Manager - Istituto Italiano di Project Management ISIPM",
+      "path": "experience/isipm-project-manager/experience.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "experience:mastercard-beta-tester",
+      "type": "Experience",
+      "label": "Beta Tester - Mastercard",
+      "path": "experience/mastercard-beta-tester/experience.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "experience:night-auditor-roberto-naldi-collection",
+      "type": "Experience",
+      "label": "Night Auditor - Roberto Naldi Collection",
+      "path": "experience/night-auditor-roberto-naldi-collection/experience.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:ai-agent-for-hyperliquid",
+      "type": "Project",
+      "label": "AI Agent for Hyperliquid",
+      "path": "projects/ai-agent-for-hyperliquid/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:currency-concierge",
+      "type": "Project",
+      "label": "Currency Concierge",
+      "path": "projects/currency-concierge/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:devroulotte-chat",
+      "type": "Project",
+      "label": "DevRoulotte.chat",
+      "path": "projects/devroulotte-chat/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:housekeeping-staffing-dashboard",
+      "type": "Project",
+      "label": "Housekeeping Staffing Dashboard",
+      "path": "projects/housekeeping-staffing-dashboard/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:hyperpine",
+      "type": "Project",
+      "label": "HyperPine",
+      "path": "projects/hyperpine/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:hypervibe",
+      "type": "Project",
+      "label": "HyperVibe",
+      "path": "projects/hypervibe/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:ironmind",
+      "type": "Project",
+      "label": "IronMind",
+      "path": "projects/ironmind/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:multi-crypto-compare",
+      "type": "Project",
+      "label": "Multi Crypto Compare",
+      "path": "projects/multi-crypto-compare/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:opera-pms-data-intelligence-tool",
+      "type": "Project",
+      "label": "Opera PMS Data Intelligence Tool",
+      "path": "projects/opera-pms-data-intelligence-tool/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:pinex",
+      "type": "Project",
+      "label": "Pinex",
+      "path": "projects/pinex/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:python-launcher-pro",
+      "type": "Project",
+      "label": "Python Launcher PRO",
+      "path": "projects/python-launcher-pro/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:ragosint",
+      "type": "Project",
+      "label": "RAGOSINT",
+      "path": "projects/ragosint/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:rektaurant",
+      "type": "Project",
+      "label": "Rektaurant",
+      "path": "projects/rektaurant/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "publication:una-novella-moderna-sulla-inoccupazione",
+      "type": "Publication",
+      "label": "Una Novella Moderna sulla Inoccupazione",
+      "path": "publications/una-novella-moderna-sulla-inoccupazione.md",
+      "parent": null,
+      "tags": []
+    }
+  ],
+  "edges": [
+    {
+      "source": "award:polish-international-actor-contest-first-place",
+      "target": "education:master-entrepreneurship-startup-advisor",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:banche-e-altri-intermediari-finanziari",
+      "target": "experience:mastercard-beta-tester",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:banche-e-altri-intermediari-finanziari",
+      "target": "project:currency-concierge",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:blockchain-basics",
+      "target": "certification:blockchain-specialization",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:blockchain-basics",
+      "target": "experience:blockchain-testnet-validator",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:blockchain-specialization",
+      "target": "experience:blockchain-testnet-validator",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:blockchain-specialization",
+      "target": "project:ai-agent-for-hyperliquid",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:blockchain-specialization",
+      "target": "project:hypervibe",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:decentralized-applications-dapps",
+      "target": "project:ai-agent-for-hyperliquid",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:decentralized-applications-dapps",
+      "target": "project:multi-crypto-compare",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:decentralized-applications-dapps",
+      "target": "project:rektaurant",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:hadoop-foundations-level-1",
+      "target": "education:cognitive-class-data-science-ai",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:hadoop-foundations-level-1",
+      "target": "project:ragosint",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:nexi-payments-developer",
+      "target": "experience:mastercard-beta-tester",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:nexi-payments-developer",
+      "target": "project:currency-concierge",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:online-seo",
+      "target": "project:devroulotte-chat",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:smart-contracts",
+      "target": "education:financial-trading-and-algorithms",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "certification:smart-contracts",
+      "target": "project:ai-agent-for-hyperliquid",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:cognitive-class-data-science-ai",
+      "target": "experience:artificial-intelligence-researcher",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:cognitive-class-data-science-ai",
+      "target": "project:ironmind",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:cognitive-class-data-science-ai",
+      "target": "project:ragosint",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:digital-marketing-fundamentals",
+      "target": "project:devroulotte-chat",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:executive-master-hotel-management-tourism-4-0",
+      "target": "experience:night-auditor-roberto-naldi-collection",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:executive-master-hotel-management-tourism-4-0",
+      "target": "project:currency-concierge",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:executive-master-hotel-management-tourism-4-0",
+      "target": "project:housekeeping-staffing-dashboard",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:executive-master-hotel-management-tourism-4-0",
+      "target": "project:opera-pms-data-intelligence-tool",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:financial-trading-and-algorithms",
+      "target": "experience:autonomous-risk-systems-designer",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:financial-trading-and-algorithms",
+      "target": "project:hyperpine",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:financial-trading-and-algorithms",
+      "target": "project:hypervibe",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:financial-trading-and-algorithms",
+      "target": "project:multi-crypto-compare",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:financial-trading-and-algorithms",
+      "target": "project:pinex",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:master-entrepreneurship-startup-advisor",
+      "target": "award:polish-international-actor-contest-first-place",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:master-entrepreneurship-startup-advisor",
+      "target": "project:devroulotte-chat",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "education:mechanical-engineering",
+      "target": "experience:autonomous-risk-systems-designer",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:artificial-intelligence-researcher",
+      "target": "project:housekeeping-staffing-dashboard",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:artificial-intelligence-researcher",
+      "target": "project:ironmind",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:artificial-intelligence-researcher",
+      "target": "project:multi-crypto-compare",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:artificial-intelligence-researcher",
+      "target": "project:opera-pms-data-intelligence-tool",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:artificial-intelligence-researcher",
+      "target": "project:ragosint",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:autonomous-risk-systems-designer",
+      "target": "project:ai-agent-for-hyperliquid",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:autonomous-risk-systems-designer",
+      "target": "project:hyperpine",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:autonomous-risk-systems-designer",
+      "target": "project:hypervibe",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:autonomous-risk-systems-designer",
+      "target": "project:multi-crypto-compare",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:autonomous-risk-systems-designer",
+      "target": "project:pinex",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:blockchain-testnet-validator",
+      "target": "project:ai-agent-for-hyperliquid",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:blockchain-testnet-validator",
+      "target": "project:hypervibe",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:blockchain-testnet-validator",
+      "target": "project:multi-crypto-compare",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:devroulotte-ceo",
+      "target": "project:devroulotte-chat",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:devroulotte-ceo",
+      "target": "project:multi-crypto-compare",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:devroulotte-ceo",
+      "target": "project:rektaurant",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:isipm-project-manager",
+      "target": "project:devroulotte-chat",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:isipm-project-manager",
+      "target": "project:opera-pms-data-intelligence-tool",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:isipm-project-manager",
+      "target": "project:ragosint",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:mastercard-beta-tester",
+      "target": "project:currency-concierge",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:mastercard-beta-tester",
+      "target": "project:multi-crypto-compare",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:night-auditor-roberto-naldi-collection",
+      "target": "education:executive-master-hotel-management-tourism-4-0",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:night-auditor-roberto-naldi-collection",
+      "target": "project:currency-concierge",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:night-auditor-roberto-naldi-collection",
+      "target": "project:housekeeping-staffing-dashboard",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:night-auditor-roberto-naldi-collection",
+      "target": "project:opera-pms-data-intelligence-tool",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:ai-agent-for-hyperliquid",
+      "target": "experience:autonomous-risk-systems-designer",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:ai-agent-for-hyperliquid",
+      "target": "experience:blockchain-testnet-validator",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:currency-concierge",
+      "target": "education:executive-master-hotel-management-tourism-4-0",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:currency-concierge",
+      "target": "experience:mastercard-beta-tester",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:currency-concierge",
+      "target": "experience:night-auditor-roberto-naldi-collection",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:devroulotte-chat",
+      "target": "experience:devroulotte-ceo",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:housekeeping-staffing-dashboard",
+      "target": "education:executive-master-hotel-management-tourism-4-0",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:housekeeping-staffing-dashboard",
+      "target": "experience:artificial-intelligence-researcher",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:housekeeping-staffing-dashboard",
+      "target": "experience:night-auditor-roberto-naldi-collection",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:housekeeping-staffing-dashboard",
+      "target": "project:python-launcher-pro",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:hyperpine",
+      "target": "experience:artificial-intelligence-researcher",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:hyperpine",
+      "target": "experience:autonomous-risk-systems-designer",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:hypervibe",
+      "target": "experience:autonomous-risk-systems-designer",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:hypervibe",
+      "target": "experience:blockchain-testnet-validator",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:ironmind",
+      "target": "experience:artificial-intelligence-researcher",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:multi-crypto-compare",
+      "target": "experience:artificial-intelligence-researcher",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:multi-crypto-compare",
+      "target": "experience:autonomous-risk-systems-designer",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:multi-crypto-compare",
+      "target": "experience:blockchain-testnet-validator",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:multi-crypto-compare",
+      "target": "experience:mastercard-beta-tester",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:opera-pms-data-intelligence-tool",
+      "target": "experience:artificial-intelligence-researcher",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:opera-pms-data-intelligence-tool",
+      "target": "experience:isipm-project-manager",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:opera-pms-data-intelligence-tool",
+      "target": "experience:night-auditor-roberto-naldi-collection",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:pinex",
+      "target": "experience:autonomous-risk-systems-designer",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:pinex",
+      "target": "experience:blockchain-testnet-validator",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:python-launcher-pro",
+      "target": "experience:artificial-intelligence-researcher",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:python-launcher-pro",
+      "target": "experience:night-auditor-roberto-naldi-collection",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:python-launcher-pro",
+      "target": "project:housekeeping-staffing-dashboard",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:ragosint",
+      "target": "experience:artificial-intelligence-researcher",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:ragosint",
+      "target": "experience:isipm-project-manager",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:rektaurant",
+      "target": "experience:autonomous-risk-systems-designer",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:rektaurant",
+      "target": "experience:devroulotte-ceo",
+      "type": "RELATED_TO"
+    }
+  ]
+}

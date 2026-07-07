@@ -1,0 +1,23 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:projects",
+      "color": { "a": 1, "rgb": 49314 }
+    },
+    {
+      "query": "path:experience",
+      "color": { "a": 1, "rgb": 31743 }
+    },
+    {
+      "query": "path:education",
+      "color": { "a": 1, "rgb": 13684944 }
+    }
+  ]
+}
