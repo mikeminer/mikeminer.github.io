@@ -7,6 +7,12 @@ GitHub: https://github.com/mikeminer
 LinkedIn: https://www.linkedin.com/in/micheleangeloforlani/  
 Portfolio: https://mikeminer.github.io/  
 Website: https://micheleforlani.it/
+Email: mikforlani@gmail.com
+
+Targeted CV versions:
+- AI Automation Engineer: https://mikeminer.github.io/cv-ai-automation-engineer.html
+- Hospitality Tech / Operations Automation: https://mikeminer.github.io/cv-hospitality-tech-operations-automation.html
+- Web3 Product Builder: https://mikeminer.github.io/cv-web3-product-builder.html
 
 ## Professional Summary
 

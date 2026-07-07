@@ -477,6 +477,43 @@ h3 {
   gap: 10px;
 }
 
+.cv-version-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.cv-version-card {
+  display: grid;
+  gap: 8px;
+  min-height: 150px;
+  align-content: start;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.74);
+  padding: 16px;
+  transition:
+    border-color 180ms ease,
+    transform 180ms ease,
+    background 180ms ease;
+}
+
+.cv-version-card:hover {
+  border-color: rgba(8, 127, 107, 0.34);
+  background: rgba(255, 255, 255, 0.96);
+  transform: translateY(-2px);
+}
+
+.cv-version-card strong {
+  color: var(--ink);
+  font-size: 1rem;
+}
+
+.cv-version-card span {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
 .keyword-list p,
 .cv-section > p {
   margin-bottom: 0;
@@ -573,7 +610,8 @@ h3 {
     margin-bottom: 0;
   }
 
-  .project-grid {
+  .project-grid,
+  .cv-version-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -612,6 +650,7 @@ h3 {
   }
 
   .project-grid,
+  .cv-version-grid,
   .skill-grid {
     grid-template-columns: 1fr;
   }
