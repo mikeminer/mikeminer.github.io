@@ -524,7 +524,17 @@ h3 {
   padding-left: 20px;
 }
 
+.cv-list {
+  margin: 0;
+  padding-left: 20px;
+  color: var(--muted);
+}
+
 .cv-item li + li {
+  margin-top: 6px;
+}
+
+.cv-list li + li {
   margin-top: 6px;
 }
 
