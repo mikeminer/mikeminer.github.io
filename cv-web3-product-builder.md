@@ -13,9 +13,13 @@ Website: https://micheleforlani.it/
 
 Web3 Product Builder focused on Hyperliquid tooling, Base/EVM experiments, wallet-based authentication, crypto payment flows, API-first DApps and builder-community products. Combines hands-on product prototyping with blockchain testnet validation, trading workflow design, AI-assisted Web3 tooling and operational risk-control systems. Builds read-only analytics, TradingView-to-Hyperliquid workflows, DApp monetization concepts and local tools around safer decision support.
 
+Active member of the ItalianBuilders community, contributing to open-source software with Italian builders. Currently working on Magistra, an early-stage community-built open-source legal AI knowledge graph and future assistant for Italian legislation.
+
 ## Core Keywords
 
 Web3 product, Hyperliquid, TradingView alerts, Pine Script, Base, EVM, Solidity, wallet login, wallet signing concepts, crypto payments, crypto-to-fiat flows, DApps, Farcaster, API monetization, subscription logic, trading signals, validator nodes, Docker, Kubernetes, DeFi primitives, read-only analytics, portfolio intelligence, risk guardrails, TypeScript, JavaScript, Python, Next.js.
+
+ItalianBuilders, open-source community, Magistra, legal AI, knowledge graph, Obsidian vault, OKF, RAG with citations, Normattiva, Akoma Ntoso, ELI.
 
 ## Professional Experience
 
@@ -105,6 +109,16 @@ Live: https://devroulotte.chat
 - Building a 1:1 video networking platform for Italian developers, founders, builders and makers.
 - Relevant keywords: builder community, networking platform, product validation, LinkedIn login, premium card, role filters.
 
+### Magistra
+
+Live knowledge graph: https://magistra-vault-graph.vercel.app/
+Repository: https://github.com/Italian-Builders-Org/magistra
+ItalianBuilders profile: https://italianbuilders.co/builders/mifo
+
+- Contributing as an active ItalianBuilders community member to open-source software built by the community.
+- Working on Magistra, an early-stage AGPL-3.0 open-source Italian legal AI project with a knowledge graph and future assistant direction.
+- Repository focus today: knowledge base, validation scripts and PDF generation; chat, semantic search and document analysis are stated product goals.
+
 ## Technical Skills
 
 Web3 and Trading Tooling: Hyperliquid, TradingView alerts, Pine Script, Base, EVM, Solidity, wallet login, wallet signing concepts, Web3 payments, validator nodes, DeFi primitives.
@@ -114,6 +128,8 @@ Product and Platform: Next.js, TypeScript, JavaScript, API routes, Prisma, Postg
 Infrastructure: Docker, Kubernetes, node setup, local and remote servers, automation, monitoring, troubleshooting, node security.
 
 Risk and Analytics: exposure control, leverage checks, drawdown monitoring, stress testing, scenario simulation, alerting, read-only analytics, portfolio intelligence.
+
+Open Source and Community: ItalianBuilders, community-led product work, public repository collaboration, legal AI knowledge graphs, Obsidian/OKF-style documentation.
 
 ## Education and Certifications
 
@@ -137,6 +153,8 @@ Risk and Analytics: exposure control, leverage checks, drawdown monitoring, stre
 GitHub: https://github.com/mikeminer  
 Ship or Die: https://shipordie.club/AnonimoCommando  
 Talent Protocol: https://talent.app/mikeminer/activity  
+ItalianBuilders: https://italianbuilders.co/builders/mifo
+Magistra: https://magistra-vault-graph.vercel.app/
 Base name: https://www.base.org/name/pappardelle  
 Devfolio: https://devfolio.co/@pappardelle  
 Credly badges: https://www.credly.com/users/2c83d602-7e9e-45c8-86b5-c91a70cfcbf0/badges/credly

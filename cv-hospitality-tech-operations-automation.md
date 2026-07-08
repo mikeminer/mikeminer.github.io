@@ -13,6 +13,8 @@ Website: https://micheleforlani.it/
 
 Hospitality operations and automation profile combining night front-office work in a 4-star hotel in central Rome with practical software building. Experienced in international guest reception, payments, daily accounting close, reporting, Opera PMS-related workflows, operational vigilance, staffing support and issue correction. Builds Python dashboards, PMS data checks, housekeeping staffing tools and internal workflow concepts designed for hotel teams and non-technical operators.
 
+Active member of the ItalianBuilders community, contributing to open-source software with Italian builders. Currently working on Magistra, an early-stage open-source Italian legal AI knowledge graph and future assistant focused on official legal sources and verifiable citations.
+
 ## Core Keywords
 
 Night audit, front office operations, hotel operations, hospitality technology, Opera PMS workflows, daily accounting close, payments, reporting, guest reception, Duty Manager support, inventory/economato support, housekeeping staffing, PMS XML, operational dashboards, process improvement, pre-arrival checks, reservation anomaly detection, workflow automation, Python, Tkinter, API integration, multilingual guest service.
@@ -103,6 +105,8 @@ Programming and Tools: Python, Tkinter, TypeScript, JavaScript, API integrations
 
 Project and Process: ISIPM method, process improvement, risk management, documentation, operational coordination, stakeholder communication.
 
+Open Source and Knowledge Work: ItalianBuilders, community-led software building, legal AI knowledge graphs, Obsidian/OKF-style documentation, public repository collaboration.
+
 ## Education and Certifications
 
 - Executive Master in Hotel Management and Tourism 4.0 - Istituto di Studi Direzionali SIDA, Rome, 2017.
@@ -122,4 +126,6 @@ Project and Process: ISIPM method, process improvement, risk management, documen
 
 GitHub: https://github.com/mikeminer  
 LinkedIn: https://www.linkedin.com/in/micheleangeloforlani/  
+ItalianBuilders: https://italianbuilders.co/builders/mifo
+Magistra: https://magistra-vault-graph.vercel.app/
 Credly badges: https://www.credly.com/users/2c83d602-7e9e-45c8-86b5-c91a70cfcbf0/badges/credly

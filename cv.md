@@ -18,6 +18,8 @@ Targeted CV versions:
 
 Night Auditor and AI/Web3 systems builder based in Rome, combining front-office operations in a 4-star hotel with AI-assisted automation, Web3 tooling, risk systems, and hospitality process improvement. Experienced in international guest reception, payments, daily accounting close, reporting, Opera PMS-related workflows, staff planning support, and operational issue analysis. Builds Python dashboards, API-first Web3 prototypes, RAG/OSINT systems, Hyperliquid tooling, local AI experiments, and practical automation for non-technical operators.
 
+Active member of the ItalianBuilders community, contributing to open-source software with Italian builders. Currently working on Magistra, an early-stage open-source Italian legal AI knowledge graph and future assistant focused on verifiable citations from official legal sources.
+
 ## Professional Experience
 
 ### CEO - DevRoulotte
@@ -147,6 +149,16 @@ GitHub: https://github.com/mikeminer/RAGOSINT
 
 - Created a TypeScript public-source intelligence workflow that collects sources, organizes them into a knowledge base, indexes recurring updates, and produces alerts, RSS feeds, and reports.
 
+### Magistra
+
+Live knowledge graph: https://magistra-vault-graph.vercel.app/
+Repository: https://github.com/Italian-Builders-Org/magistra
+ItalianBuilders profile: https://italianbuilders.co/builders/mifo
+
+- Active ItalianBuilders community member contributing to open-source software with the community.
+- Working on Magistra, an early-stage open-source Italian legal AI project with a knowledge graph, Obsidian/OKF-style documentation, and a future assistant for Italian legislation with verifiable citations.
+- Public repository notes: AGPL-3.0 license, default branch dev, current repository content focused on the knowledge base and validation/PDF scripts; chat, semantic search, and document analysis are stated product goals.
+
 ## Core Skills
 
 AI and Automation: RAG, OSINT, local inference, agent workflows, context design, report automation, OpenAI-compatible APIs.
@@ -156,6 +168,8 @@ Programming and Platforms: Python, TypeScript, JavaScript, Solidity, C, Next.js,
 Web3 and Trading Tooling: Hyperliquid, TradingView alerts, Pine Script, Base, EVM, wallet login, wallet signing concepts, Web3 payments, validator nodes, Docker, Kubernetes, DeFi primitives.
 
 Hospitality and Operations: Night audit, front office operations, Opera PMS workflows, daily accounting close, payments, reporting, guest reception, housekeeping staffing, process improvement, risk control.
+
+Open Source and Community: ItalianBuilders, community-led software building, legal AI knowledge graphs, Obsidian/OKF-style knowledge bases, public repository collaboration.
 
 LinkedIn Skill Signals: Monetization, Back-End Web Development, hotel management, process improvement, Windows scripting, risk management, Python programming, decision control systems.
 
@@ -218,6 +232,8 @@ The Open University / Google EMEA / IAB Europe | 2016
 GitHub: https://github.com/mikeminer  
 Ship or Die: https://shipordie.club/AnonimoCommando  
 Talent Protocol: https://talent.app/mikeminer/activity  
+ItalianBuilders: https://italianbuilders.co/builders/mifo
+Magistra: https://magistra-vault-graph.vercel.app/
 Base name: https://www.base.org/name/pappardelle  
 Devfolio: https://devfolio.co/@pappardelle  
 Credly badges: https://www.credly.com/users/2c83d602-7e9e-45c8-86b5-c91a70cfcbf0/badges/credly

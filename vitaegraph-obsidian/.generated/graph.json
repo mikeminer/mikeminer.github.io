@@ -163,6 +163,14 @@
       "tags": []
     },
     {
+      "id": "experience:italianbuilders-community-member",
+      "type": "Experience",
+      "label": "Active Member - ItalianBuilders Community",
+      "path": "experience/italianbuilders-community-member/experience.md",
+      "parent": null,
+      "tags": []
+    },
+    {
       "id": "experience:mastercard-beta-tester",
       "type": "Experience",
       "label": "Beta Tester - Mastercard",
@@ -231,6 +239,14 @@
       "type": "Project",
       "label": "IronMind",
       "path": "projects/ironmind/project.md",
+      "parent": null,
+      "tags": []
+    },
+    {
+      "id": "project:magistra",
+      "type": "Project",
+      "label": "Magistra",
+      "path": "projects/magistra/project.md",
       "parent": null,
       "tags": []
     },
@@ -558,6 +574,16 @@
       "type": "RELATED_TO"
     },
     {
+      "source": "experience:italianbuilders-community-member",
+      "target": "project:devroulotte-chat",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "experience:italianbuilders-community-member",
+      "target": "project:magistra",
+      "type": "RELATED_TO"
+    },
+    {
       "source": "experience:mastercard-beta-tester",
       "target": "project:currency-concierge",
       "type": "RELATED_TO"
@@ -660,6 +686,21 @@
     {
       "source": "project:ironmind",
       "target": "experience:artificial-intelligence-researcher",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:magistra",
+      "target": "experience:artificial-intelligence-researcher",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:magistra",
+      "target": "experience:italianbuilders-community-member",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "project:magistra",
+      "target": "project:ragosint",
       "type": "RELATED_TO"
     },
     {

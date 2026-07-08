@@ -13,9 +13,13 @@ Website: https://micheleforlani.it/
 
 AI Automation Engineer focused on turning operational workflows into Python dashboards, RAG/OSINT systems, local AI experiments, API-first prototypes and practical tools for non-technical operators. Combines hospitality operations, night audit, risk-control tooling and Web3 experimentation with hands-on work in Python, TypeScript, JavaScript, local inference, report automation and decision-support systems.
 
+Active ItalianBuilders community member contributing to open-source software. Currently working on Magistra, an early-stage open-source Italian legal AI knowledge graph and future assistant built around verifiable legal citations.
+
 ## Core Keywords
 
 Python automation, RAG, OSINT, local inference, AI agents, context design, dashboards, report automation, API integration, TypeScript, JavaScript, Streamlit, Ollama, OpenAI-compatible APIs, risk-control tools, scenario simulation, stress testing, alerting, operational workflow automation, PMS data checks, data quality, non-technical operator tooling.
+
+Open-source community, ItalianBuilders, legal AI knowledge graphs, Obsidian/OKF-style knowledge bases, Magistra, Normattiva, Akoma Ntoso, ELI, RAG with citations.
 
 ## Professional Experience
 
@@ -94,6 +98,16 @@ GitHub: https://github.com/mikeminer/IronMind
 - Built local CPU inference experiments around GGUF-style model workflows and focused local agentic execution.
 - Relevant keywords: local inference, C, offline AI, model runtime experiments, local agents.
 
+### Magistra
+
+Live knowledge graph: https://magistra-vault-graph.vercel.app/
+Repository: https://github.com/Italian-Builders-Org/magistra
+ItalianBuilders profile: https://italianbuilders.co/builders/mifo
+
+- Contributing as an active ItalianBuilders community member to an early-stage open-source Italian legal AI project.
+- Current public repository focus: knowledge base, validation scripts, PDF generation and Obsidian-style graph exploration for Italian legislation concepts.
+- Product direction: AI assistant for Italian law with chat, semantic search and document analysis grounded in official sources and verifiable citations.
+
 ### Multi Crypto Compare
 
 LinkedIn project | May 2026 - Present
@@ -110,6 +124,8 @@ Programming: Python, TypeScript, JavaScript, C, shell scripting, API routes, Str
 Data and Operations: dashboards, PMS XML analysis, data quality checks, operational reporting, scenario simulation, stress testing, alerting, monitoring.
 
 Web and Platform: Next.js, Prisma, PostgreSQL, Zod, TanStack Query, Zustand, GitHub Pages, Vercel, REST-style integrations.
+
+Open Source and Knowledge Graphs: ItalianBuilders, Magistra, Obsidian/OKF-style knowledge bases, legal AI, RAG with citations, public repository collaboration.
 
 ## Education and Certifications
 
@@ -133,6 +149,8 @@ Web and Platform: Next.js, Prisma, PostgreSQL, Zod, TanStack Query, Zustand, Git
 GitHub: https://github.com/mikeminer  
 Ship or Die: https://shipordie.club/AnonimoCommando  
 Talent Protocol: https://talent.app/mikeminer/activity  
+ItalianBuilders: https://italianbuilders.co/builders/mifo
+Magistra: https://magistra-vault-graph.vercel.app/
 Base name: https://www.base.org/name/pappardelle  
 Devfolio: https://devfolio.co/@pappardelle  
 Credly badges: https://www.credly.com/users/2c83d602-7e9e-45c8-86b5-c91a70cfcbf0/badges/credly

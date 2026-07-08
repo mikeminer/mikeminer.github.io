@@ -6,11 +6,12 @@ Name: Michele Angelo Forlani
 Public GitHub: https://github.com/mikeminer  
 Portfolio: https://mikeminer.github.io/  
 Personal domain: https://micheleforlani.it/  
+ItalianBuilders: https://italianbuilders.co/builders/mifo
 Primary professional positioning: Night Auditor, AI and Web3 systems builder, and hospitality operations automation practitioner.
 
 ## Professional summary
 
-Michele Angelo Forlani combines night front-office operations in Rome with practical software building across AI automation, Web3 tooling, operational dashboards, RAG/OSINT workflows, Hyperliquid experiments, and hospitality process improvement. The graph models the public professional record behind that positioning: current roles, selected projects, education, certifications, public proof, and target directions.
+Michele Angelo Forlani combines night front-office operations in Rome with practical software building across AI automation, Web3 tooling, operational dashboards, RAG/OSINT workflows, Hyperliquid experiments, hospitality process improvement, and open-source community work through ItalianBuilders. The graph models the public professional record behind that positioning: current roles, selected projects, education, certifications, public proof, and target directions.
 
 This vault is designed for Obsidian and for AgentKit SEO VitaeGraph workflows. Markdown records are the canonical source. Generated JSON indexes under `.generated/` are rebuildable and should not replace the Markdown records.
 
@@ -27,6 +28,7 @@ Start from [[context/context-first-workflow|the AgentKit SEO personal career con
 ## Key domains
 
 - AI automation, RAG/OSINT, local inference, agent workflows, and report automation.
+- Open-source community work, ItalianBuilders collaboration, legal AI knowledge graphs, and Magistra.
 - Hospitality technology, night audit, Opera PMS-related workflows, staffing analysis, payments, daily close, and process improvement.
 - Web3 product building, Hyperliquid tooling, TradingView/Pine Script workflows, Base/EVM experiments, wallet flows, and crypto payment testing.
 - Developer and builder-community products, especially DevRoulotte.chat and related community validation.
@@ -37,6 +39,7 @@ Start from [[context/context-first-workflow|the AgentKit SEO personal career con
 - Translating front-office hotel pain points into internal software concepts.
 - Designing risk-control and decision-support patterns for trading and operational workflows.
 - Creating public Web3 and AI prototypes with live demos, GitHub repositories, and portfolio pages.
+- Participating in community open-source software building through ItalianBuilders, including current work on Magistra.
 - Maintaining a public proof graph across GitHub, LinkedIn, Credly, Devfolio, Talent Protocol, Base, and Ship or Die.
 
 ## Developing capabilities
@@ -45,6 +48,7 @@ Start from [[context/context-first-workflow|the AgentKit SEO personal career con
 - More explicit impact evidence for hospitality automation projects.
 - Clearer separation between live products, prototypes, internal tools, and research experiments.
 - More target-specific public proof for AI Automation Engineer, Hospitality Tech, and Web3 Product roles.
+- More contribution-level evidence for ItalianBuilders and Magistra, such as commits, pull requests, issues, or release notes.
 
 ## Agent retrieval policy
 

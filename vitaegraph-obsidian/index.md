@@ -18,6 +18,7 @@
 - [[experience/devroulotte-ceo/experience|CEO - DevRoulotte]]
 - [[experience/autonomous-risk-systems-designer/experience|Full Stack Software and Risk Systems Designer]]
 - [[experience/artificial-intelligence-researcher/experience|Artificial Intelligence Researcher]]
+- [[experience/italianbuilders-community-member/experience|Active Member - ItalianBuilders Community]]
 - [[experience/blockchain-testnet-validator/experience|Blockchain Testnet Validator and Node Experimentation]]
 - [[experience/night-auditor-roberto-naldi-collection/experience|Night Auditor - Roberto Naldi Collection]]
 - [[experience/mastercard-beta-tester/experience|Beta Tester - Mastercard]]
@@ -28,6 +29,7 @@
 - [[projects/devroulotte-chat/project|DevRoulotte.chat]]
 - [[projects/multi-crypto-compare/project|Multi Crypto Compare]]
 - [[projects/ragosint/project|RAGOSINT]]
+- [[projects/magistra/project|Magistra]]
 - [[projects/ironmind/project|IronMind]]
 - [[projects/housekeeping-staffing-dashboard/project|Housekeeping Staffing Dashboard]]
 - [[projects/python-launcher-pro/project|Python Launcher PRO]]
@@ -66,7 +68,7 @@
 
 ## Platform routing
 
-- GitHub: start from project records with repository observations, especially [[projects/ragosint/project|RAGOSINT]], [[projects/ironmind/project|IronMind]], [[projects/hypervibe/project|HyperVibe]], [[projects/housekeeping-staffing-dashboard/project|Housekeeping Staffing Dashboard]], and [[projects/python-launcher-pro/project|Python Launcher PRO]].
+- GitHub: start from project records with repository observations, especially [[projects/ragosint/project|RAGOSINT]], [[projects/magistra/project|Magistra]], [[projects/ironmind/project|IronMind]], [[projects/hypervibe/project|HyperVibe]], [[projects/housekeeping-staffing-dashboard/project|Housekeeping Staffing Dashboard]], and [[projects/python-launcher-pro/project|Python Launcher PRO]].
 - LinkedIn: start from identity, experience, target directions, education, and the public proof graph.
 - CV/ATS: select target direction plus the matching experience, project, education, and certification records.
 - Portfolio: select public projects, proof links, and records with live demos.

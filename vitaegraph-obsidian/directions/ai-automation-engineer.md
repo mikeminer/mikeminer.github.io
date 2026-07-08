@@ -8,8 +8,10 @@ Target positioning for roles centered on Python automation, RAG/OSINT, local AI,
 
 - [[experience/artificial-intelligence-researcher/experience]]
 - [[experience/autonomous-risk-systems-designer/experience]]
+- [[experience/italianbuilders-community-member/experience]]
 - [[experience/night-auditor-roberto-naldi-collection/experience]]
 - [[projects/ragosint/project]]
+- [[projects/magistra/project]]
 - [[projects/ironmind/project]]
 - [[projects/python-launcher-pro/project]]
 - [[projects/housekeeping-staffing-dashboard/project]]
@@ -21,4 +23,4 @@ Use phrases such as "builds", "prototypes", "experiments with", and "designs ope
 
 ## Keywords
 
-Python automation, RAG, OSINT, local inference, AI agents, context design, dashboards, report automation, API integration, Streamlit, Ollama, OpenAI-compatible APIs, risk-control tools, scenario simulation, stress testing, alerting, PMS data checks, data quality, operational workflow automation.
+Python automation, RAG, OSINT, legal AI, knowledge graphs, Normattiva, Akoma Ntoso, public-source ingestion, local inference, AI agents, context design, dashboards, report automation, API integration, Streamlit, Ollama, OpenAI-compatible APIs, risk-control tools, scenario simulation, stress testing, alerting, PMS data checks, data quality, operational workflow automation.
